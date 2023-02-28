@@ -1,8 +1,7 @@
 #!name=Loon Gallery
 #!desc=Loon 插件仓库
 #!openUrl=https://🎈.com
-#!author=Likehey
-#!icon=https://avatars.githubusercontent.com/u/38467044?v=4
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/master/Other_icon/80px/RemoteResourceConverter.png
 
 [MITM]
 hostname=xn--ck8h.com
